@@ -14,8 +14,8 @@ public class Test {
 
     public static final Scanner IN = new Scanner(System.in);
     
-    private Singer johnLennon;
-    private Singer paulMcCartney;
+    private Singer pattiSmith;
+    private Singer bruceSpringsteen;
     
     private void initializeSingingInThreads() {
     }

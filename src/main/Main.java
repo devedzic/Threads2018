@@ -13,8 +13,8 @@ public class Main {
 //        t.simpleDelay();
 //        t.waitDelay();
 //        t.loopDelay();
-        t.threadWaitDelay();
-//        t.testSingInThreads();
+//        t.threadWaitDelay();
+        t.testSingInThreads();
     }
 
 }
